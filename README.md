@@ -1,1 +1,1 @@
-# fulstack-100-days-challenge
+# fullstack-100-days-challenge
