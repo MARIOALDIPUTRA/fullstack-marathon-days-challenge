@@ -1,0 +1,16 @@
+{
+  "name": "expressapp",
+  "version": "1.0.0",
+  "description": "This is a json file for app.js",
+  "main": "app.js",
+  "dependencies": {
+    "cat-me": "^1.0.3",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pranav Kalra",
+  "license": "ISC"
+}

@@ -1,0 +1,30 @@
+<!--
+    <style>
+        body {
+            color: purple;
+        }
+    </style>
+-->
+<% include partials/header%>
+
+<link rel="stylesheet", href="/app.css">
+
+
+<h1>The posts page</h1>
+
+<%= posts %>
+
+<ul>
+     <li><%=posts[0].title + posts[0].author%> </li>
+     <li><%=posts[1].title + posts[0].author%></li>
+     <li><%=posts[2].title + posts[0].author%></li> 
+</ul>
+
+<ul>
+    <% for(var i = 0; i < posts.length; i++) { %>
+        <li><%= "Title: "+ posts[i].title + ", Author: "+ posts[i].author; %></li> 
+    <% } %>
+    
+</ul>
+
+<% include partials/footer%>
