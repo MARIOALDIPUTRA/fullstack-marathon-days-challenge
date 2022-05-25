@@ -4,9 +4,7 @@
 *Dua Aturan Utama:
 *Kode minimal satu jam setiap hari selama 100 hari ke depan.
 
-## Publicly commit to the challenge:
-
-## kemajuan Anda setiap hari dengan tagar #100DaysOfCode.
+## kemajuan Anda setiap hari 
 *Berkomitmen secara publik terhadap tantangan:
 *Jika Anda membuat keputusan untuk berkomitmen pada tantangan, Klik di sini untuk men-tweetnya ke seluruh dunia, membuat diri Anda bertanggung jawab dan membawa tekad Anda ke tingkat berikutnya!
 
